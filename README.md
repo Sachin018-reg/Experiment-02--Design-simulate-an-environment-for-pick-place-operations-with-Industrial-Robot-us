@@ -68,4 +68,5 @@ Inspection – Pick and place robots used for inspection applications are equipp
 
 
 
-### RESULTS :  
+### RESULTS :  ![IMG-20260207-WA0000](https://github.com/user-attachments/assets/139439b7-eb6d-4ec3-907b-097b9e589277)
+
